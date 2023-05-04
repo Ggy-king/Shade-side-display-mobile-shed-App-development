@@ -1,2 +1,24 @@
-# Shade-side-display-mobile-shed-App-development
-遮阳侧展移动车棚App开发项目 采用vue3-echarts-json-server -KM开发 Shade-side-display-mobile-shed-App-development
+# demo
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
